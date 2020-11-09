@@ -33,11 +33,11 @@ Why do people contribute to open source? Plenty of reasons!
 
 ### Improve software you rely on
 
-Lots of open source contributors start by being users of software they contribute to. When you find a bug in an open source software you use, you may want to look at the source to see if you can patch it yourself. If that's the case, then contributing the patch back is the best way to ensure that your friends (and yourself when you update to the next release) will be able to benefit from it.
+Lots of open source contributors start by being users of software they contribute to. When you find a bug in an open-source software you use, you may want to look at the source to see if you can patch it yourself. If that's the case, then contributing the patch back is the best way to ensure that your friends (and yourself when you update to the next release) will be able to benefit from it.
 
 ### Improve existing skills
 
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open-source project.
 
 ### Meet people who are interested in similar things
 
@@ -63,7 +63,7 @@ You don't have to become a lifelong contributor to enjoy participating in open s
 
 If you're a new open source contributor, the process can be intimidating. How do you find the right project? What if you don't know how to code? What if something goes wrong?
 
-Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience.
+Not to worry! There are all sorts of ways to get involved with an open-source project, and a few tips will help you get the most out of your experience.
 
 ### You don't have to contribute code
 
@@ -81,7 +81,7 @@ Even if you like to write code, other types of contributions are a great way to 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
+  I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002, about accepting my patch. I quickly caught the open-source bug and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
   <p markdown="1" class="pquote-credit">
 — @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
   </p>
@@ -167,11 +167,11 @@ For anything more than a typo fix, contributing to open source is like walking u
 
 Before jumping in blindly with your own suggestions, start by learning how to read the room. Doing so increases the chances that your ideas will be noticed and heard.
 
-### Anatomy of an open source project
+### Anatomy of an open-source project
 
 Every open source community is different.
 
-Spending years on one open source project means you've gotten to know one open source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
+Spending years on one open-source project means you've gotten to know one open-source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
 
 That said, many open source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
 
@@ -193,7 +193,7 @@ A project also has documentation. These files are usually listed in the top leve
 * **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants' behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
 * **Other documentation:** There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects.
 
-Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
+Finally, open-source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
 
 * **Issue tracker:** Where people discuss issues related to the project.
 * **Pull requests:** Where people discuss and review changes that are in progress.
@@ -470,7 +470,7 @@ You should usually open an issue in the following situations:
 
 * Report an error you can't solve yourself
 * Discuss a high-level topic or idea (for example, community, vision or policies)
-* Propose a new feature or other project idea
+* Propose a new feature or another project idea
 
 Tips for communicating on issues:
 
@@ -516,7 +516,7 @@ If you make a polite bump and still nobody responds, it's possible that nobody w
 
 ### 🚧 Someone requests changes to your contribution.
 
-It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
+It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea or changes to your code.
 
 When someone requests changes, be responsive. They've taken the time to review your contribution. Opening a PR and walking away is bad form. If you don't know how to make changes, research the problem, then ask for help if you need it.
 
